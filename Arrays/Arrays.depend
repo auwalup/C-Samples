@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472058850 source:c:\users\bluesapphire_user1\documents\arrays\main.c
+	<stdio.h>
+	"Array2.c"
+	<stdlib.h>
+
+1472059521 c:\users\bluesapphire_user1\documents\arrays\array2.c
+
