@@ -9,6 +9,7 @@ int main()
         }
     //beginArray();
     return 0;
+    //this is just a line of changes
     printf("********************************\n\t\tWelcome To The Game\n***************************************\n");
     do{
         int guess;
